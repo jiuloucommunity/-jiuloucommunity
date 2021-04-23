@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jiuloucommunity.github.io/01/</id>
+    <id>https://jiuloucommunity.github.io/jiuloucommunity/</id>
     <title>Gridea</title>
-    <updated>2021-04-23T10:01:54.431Z</updated>
+    <updated>2021-04-23T10:03:02.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jiuloucommunity.github.io/01/"/>
-    <link rel="self" href="https://jiuloucommunity.github.io/01/atom.xml"/>
+    <link rel="alternate" href="https://jiuloucommunity.github.io/jiuloucommunity/"/>
+    <link rel="self" href="https://jiuloucommunity.github.io/jiuloucommunity/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://jiuloucommunity.github.io/01/images/avatar.png</logo>
-    <icon>https://jiuloucommunity.github.io/01/favicon.ico</icon>
+    <logo>https://jiuloucommunity.github.io/jiuloucommunity/images/avatar.png</logo>
+    <icon>https://jiuloucommunity.github.io/jiuloucommunity/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[files]]></title>
-        <id>https://jiuloucommunity.github.io/01/post/files/</id>
-        <link href="https://jiuloucommunity.github.io/01/post/files/">
+        <id>https://jiuloucommunity.github.io/jiuloucommunity/post/files/</id>
+        <link href="https://jiuloucommunity.github.io/jiuloucommunity/post/files/">
         </link>
         <updated>2021-04-23T10:01:32.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jiuloucommunity.github.io/01//post-images/1619172111075.png" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jiuloucommunity.github.io/jiuloucommunity//post-images/1619172111075.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://jiuloucommunity.github.io/01/post/test/</id>
-        <link href="https://jiuloucommunity.github.io/01/post/test/">
+        <id>https://jiuloucommunity.github.io/jiuloucommunity/post/test/</id>
+        <link href="https://jiuloucommunity.github.io/jiuloucommunity/post/test/">
         </link>
         <updated>2021-04-23T09:40:15.000Z</updated>
         <content type="html"><![CDATA[<p>ts</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://jiuloucommunity.github.io/01/post/hello-gridea/</id>
-        <link href="https://jiuloucommunity.github.io/01/post/hello-gridea/">
+        <id>https://jiuloucommunity.github.io/jiuloucommunity/post/hello-gridea/</id>
+        <link href="https://jiuloucommunity.github.io/jiuloucommunity/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
